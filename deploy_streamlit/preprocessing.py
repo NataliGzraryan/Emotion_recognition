@@ -1,7 +1,7 @@
 import re
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-
+import nltk
 nltk.download('stopwords')
 
 # Set of English stopwords
